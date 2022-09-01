@@ -10,6 +10,7 @@ body {
     font-family: 'Alumni Sans Pinstripe', sans-serif;
     background-color: #eaeaea;
     color: white;
+    padding: 1rem;
 }
 #container {
     max-width: 400px;
